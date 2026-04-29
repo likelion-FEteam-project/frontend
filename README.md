@@ -18,20 +18,20 @@
 ## 시작하기
 
 ### 레포 클론
-\`\`\`bash
+```bash
 git clone https://github.com/likelion-FEteam-project/frontend.git
 cd frontend
-\`\`\`
+```
 
 ### 패키지 설치
-\`\`\`bash
+```bash
 npm install
-\`\`\`
+```
 
 ### 개발 서버 실행
-\`\`\`bash
+```bash
 npm run dev
-\`\`\`
+```
 
 ## 1주차 세션 (예정)
 - 프로젝트 구조 같이 잡기
