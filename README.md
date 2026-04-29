@@ -1,16 +1,40 @@
-# React + Vite
+# 멋쟁이사자처럼 12기 프론트엔드 팀 프로젝트
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 프로젝트 소개
+동아리 관리 플랫폼 (1주차 세션에서 구체화 예정)
 
-Currently, two official plugins are available:
+## 기술 스택
+- React 18
+- Vite
+- React Router
+- TanStack Query
+- Zustand
+- Tailwind CSS
+- Supabase
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 팀원 역할
+1주차 세션에서 배정 예정
 
-## React Compiler
+## 시작하기
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### 레포 클론
+\`\`\`bash
+git clone https://github.com/likelion-FEteam-project/frontend.git
+cd frontend
+\`\`\`
 
-## Expanding the ESLint configuration
+### 패키지 설치
+\`\`\`bash
+npm install
+\`\`\`
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 개발 서버 실행
+\`\`\`bash
+npm run dev
+\`\`\`
+
+## 1주차 세션 (예정)
+- 프로젝트 구조 같이 잡기
+- Git 협업 실습
+- Supabase 세팅
+- 역할 분배
